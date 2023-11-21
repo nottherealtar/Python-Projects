@@ -3,6 +3,7 @@
 ## Use-Instructions:
 - Download/clone and unzip the repo.
 - Open a terminal in the same directory as the .py files.
+- Install the faker module for functions ``pip install faker ``
 - Execute favoured script, enter the amount you would like to generate. Check active dir for the results in a txt file.
 
 1. Emails - ``py generate_dummy_emails.py ``
