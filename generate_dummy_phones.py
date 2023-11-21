@@ -1,7 +1,7 @@
 import random
 import datetime
 
-def generate_phone_numbers(num_to_generate):
+def generate_dummy_phones(num_to_generate):
     """
     Generate a list of random South African phone numbers.
 
@@ -32,7 +32,7 @@ def main():
     num_to_generate = int(input("How many phone numbers would you like to generate? "))
 
     # Generate phone numbers
-    phone_numbers = generate_phone_numbers(num_to_generate)
+    phone_numbers = generate_dummy_phones(num_to_generate)
 
     # Create filename with timestamp
     now = datetime.datetime.now()
