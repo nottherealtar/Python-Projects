@@ -11,7 +11,7 @@ def generate_dummy_phones(num_to_generate):
     Returns:
         list: List of randomly generated phone numbers.
     """
-    return ['+27' + str(random.randint(710000000, 719999999)) for _ in range(num_to_generate)]
+    return ['+27' + str(random.randint(71000000000, 71999999999)) for _ in range(num_to_generate)]
 
 def write_phone_numbers_to_file(phone_numbers, filename):
     """
