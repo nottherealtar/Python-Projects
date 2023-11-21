@@ -1,0 +1,8 @@
+{
+    "cody.codebase": "https://github.com/nottherealtar/TarsOnlineCogs",
+    "cody.experimental.chatPredictions": true,
+    "cody.experimental.commandLenses": false,
+    "cody.experimental.guardrails": false,
+    "cody.experimental.localSymbols": false,
+    "cody.experimental.newSearch": false
+}
