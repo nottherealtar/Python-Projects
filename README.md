@@ -9,4 +9,3 @@
 1. Phones - ``py generate_dummy_phones.py ``
 1. First Names - ``py generate_dummy_first_names.py ``
 1. Last Names - ``py generate_dummy_last_names.py ``
-
